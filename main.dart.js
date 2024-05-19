@@ -71522,7 +71522,7 @@ M(a){var s=null
 return A.Gi(!1,A.iE(20),!0,new A.j7(B.EN,A.apf(this.c,B.i,25,25),s),s,!0,s,s,s,s,s,s,s,s,s,this.d,s,s,s,s)}}
 A.Kx.prototype={
 M(a){var s=null,r=t.p
-return A.iM(A.a([new A.oD("assets/icons/email_icon.svg",s,s),A.dP("parth47@gmail.com",s,s,A.ax(a).p3.ax.ul(B.i,B.T,1.2),s),A.dn(s,20,s),new A.oD("assets/icons/phone_icon.svg",s,s),A.dP("+91 7357577200",s,s,A.ax(a).p3.ax.ul(B.i,B.T,1.2),s),A.dn(s,40,s),A.lZ(A.a([A.dP("Connect On",s,s,A.ax(a).p3.ax.ul(B.i,B.T,1.2),s),A.dn(s,s,20),new A.oD("assets/icons/linkedin.svg",new A.a6Q(),s),A.dn(s,s,10),new A.oD("assets/icons/github.svg",new A.a6R(),s)],r),B.bL,B.aQ)],r),B.b1,B.aj)}}
+return A.iM(A.a([new A.oD("assets/icons/email_icon.svg",s,s),A.dP("parthmalvi47@gmail.com",s,s,A.ax(a).p3.ax.ul(B.i,B.T,1.2),s),A.dn(s,20,s),new A.oD("assets/icons/phone_icon.svg",s,s),A.dP("+91 7357577200",s,s,A.ax(a).p3.ax.ul(B.i,B.T,1.2),s),A.dn(s,40,s),A.lZ(A.a([A.dP("Connect On",s,s,A.ax(a).p3.ax.ul(B.i,B.T,1.2),s),A.dn(s,s,20),new A.oD("assets/icons/linkedin.svg",new A.a6Q(),s),A.dn(s,s,10),new A.oD("assets/icons/github.svg",new A.a6R(),s)],r),B.bL,B.aQ)],r),B.b1,B.aj)}}
 A.a6Q.prototype={
 $0(){return A.tQ(A.f8("https://www.linkedin.com/in/parth-malvi-b77741212/",0,null))},
 $S:0}
